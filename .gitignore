@@ -24,11 +24,7 @@ build/
 .claude/
 docs/
 
-# Data: all derived data in data/ is released, except BVS (for now) beyond
-# its bird-level metrics.
-data/bvs/**
-!data/bvs/**/
-!data/bvs/metrics/bvs-bird-metrics*.csv
+# Data: all derived data in data/ is released; tutees.csv is unused.
 data/tutees.csv
 
 # Affinity lock files

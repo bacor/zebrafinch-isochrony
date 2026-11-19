@@ -40,18 +40,15 @@ All four datasets are licensed under CC BY 4.0; full references are below.
 
 ## Data
 
-The derived data of the NS, RT and BWPS datasets is part of this repository
-(`data/`, see `data/README.md`): the rhythm files with predicted labels and
-bird identities, and the label-, cluster- and bird-level metrics. For BVS,
-only the bird-level metrics are included for now. The repository also
-contains the condition-level results (`data/metrics.csv`) and the
-permutation tests (`data/permutation-tests.csv`) of all datasets.
+The derived data of all datasets is part of this repository (`data/`, see
+`data/README.md`): the rhythm files with predicted labels and bird
+identities, and the label-, cluster- and bird-level metrics. The repository
+also contains the condition-level results (`data/metrics.csv`) and the
+permutation tests (`data/permutation-tests.csv`).
 
-`statistics.ipynb` runs on this data. The figure notebooks also need the BVS
-data, and preprocessing needs the source datasets (publicly available, see
-the table above) and the fitted HMMs (not included). All notebooks are
-committed with their outputs, so the figures and the code that makes them
-can be inspected.
+`statistics.ipynb` and the figure notebooks run on this data. Preprocessing
+needs the source datasets (publicly available, see the table above) and the
+fitted HMMs (not included). All notebooks are committed with their outputs.
 
 ## Running the analyses
 
