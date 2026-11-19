@@ -5,6 +5,11 @@
 Code for Cornelissen, Maiolini, Spierings & Honing, *Consistent but not
 isochronous: zebra finch rhythm in four datasets* (in preparation).
 
+<p align="center">
+  <img src="figures/fig-graphical-abstract.jpg" width="480"
+       alt="Graphical abstract: zebra finch song units have highly consistent yet different durations, resulting in a small repertoire of rhythmic patterns, the majority of which is not isochronous.">
+</p>
+
 We reanalyze zebra finch song from four published datasets:
 
 | id | source | data | birds | labels |

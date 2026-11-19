@@ -34,3 +34,6 @@ data/**
 !data/permutation-tests.csv
 !data/*/metrics/*-bird-metrics*.csv
 !data/ns/rhythms/*.csv
+
+# Affinity lock files
+*~lock~
