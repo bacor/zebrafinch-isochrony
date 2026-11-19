@@ -1,0 +1,72 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "Consistent but not isochronous: zebra finch rhythm in four datasets (code and data)"
+type: software
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/bacor/zebrafinch-isochrony"
+authors:
+  - given-names: Bas
+    family-names: Cornelissen
+    orcid: "https://orcid.org/0000-0002-0766-7305"
+    affiliation: "Music Cognition Group, Institute for Logic, Language and Computation, University of Amsterdam"
+  - given-names: Marco
+    family-names: Maiolini
+    orcid: "https://orcid.org/0009-0008-1886-679X"
+    affiliation: "Animal Science & Health, Institute of Biology Leiden, Leiden University; Leiden Institute for Brain and Cognition (LIBC), Leiden University"
+  - given-names: Michelle
+    family-names: Spierings
+    orcid: "https://orcid.org/0009-0004-7458-7251"
+    affiliation: "Animal Science & Health, Institute of Biology Leiden, Leiden University"
+  - given-names: Henkjan
+    family-names: Honing
+    orcid: "https://orcid.org/0000-0001-7046-7923"
+    affiliation: "Music Cognition Group, Institute for Logic, Language and Computation, University of Amsterdam"
+keywords:
+  - zebra finch
+  - birdsong
+  - rhythm
+  - isochrony
+references:
+  - type: dataset
+    title: 'Dataset for "Zebra finch tutees not only share the melody but also the rhythm of their tutor''s song"'
+    authors:
+      - family-names: Burchardt
+        given-names: Lara S.
+      - family-names: Varkevisser
+        given-names: Judith M.
+      - family-names: Spierings
+        given-names: Michelle J.
+    year: 2025
+    doi: 10.5281/zenodo.14779410
+  - type: dataset
+    title: 'Dataset for "Bird Song Metronomics"'
+    authors:
+      - family-names: Norton
+        given-names: Philipp
+      - family-names: Scharff
+        given-names: Constance
+    year: 2025
+    doi: 10.5281/zenodo.17842767
+  - type: dataset
+    title: "Birdsong rhythm: Onsets/intervals of a zebra finch song corpus and 3 thrush nightingale song corpora"
+    authors:
+      - family-names: Roeske
+        given-names: Tina C.
+      - family-names: Tchernichovski
+        given-names: Ofer
+    year: 2020
+    doi: 10.17632/zhb728dc4z.1
+  - type: dataset
+    title: 'Repository of primary data and analysis code for "Humans, but not zebra finches, produce spontaneously isochronous song through the lifespan"'
+    authors:
+      - family-names: Bertolo
+        given-names: Mila
+      - family-names: Weiss
+        given-names: Michael W.
+      - family-names: Peretz
+        given-names: Isabelle
+      - family-names: Sakata
+        given-names: Jon T.
+    year: 2025
+    doi: 10.17605/OSF.IO/FN2MX
