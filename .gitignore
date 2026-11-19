@@ -1,0 +1,36 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+*.so
+
+.env
+.venv/
+.python-version
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+.ipynb_checkpoints/
+notebooks/cache/
+
+dist/
+build/
+*.egg-info/
+
+.vscode/
+.claude/
+docs/
+
+# Data: most source data cannot be shared, so everything under data/ is
+# ignored except the files explicitly listed here.
+data/**
+!data/**/
+!data/README.md
+!data/LICENSE
+!data/metrics.csv
+!data/permutation-tests.csv
+!data/*/metrics/*-bird-metrics*.csv
+!data/ns/rhythms/*.csv
