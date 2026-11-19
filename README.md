@@ -1,5 +1,7 @@
 # Consistent but not isochronous: zebra finch rhythm in four datasets
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24370596.svg)](https://doi.org/10.5281/zenodo.24370596)
+
 Code for Cornelissen, Maiolini, Spierings & Honing, *Consistent but not
 isochronous: zebra finch rhythm in four datasets* (in preparation).
 
@@ -91,7 +93,11 @@ docstrings and documentation consistent.
 
 ## Citation
 
-_To be added later._
+Please cite the paper (reference to follow) and this archived release:
+
+> Cornelissen, B., Maiolini, M., Spierings, M., & Honing, H. (2026).
+> Consistent but not isochronous: zebra finch rhythm in four datasets (code
+> and data). Zenodo. https://doi.org/10.5281/zenodo.24370596
 
 ## License
 
